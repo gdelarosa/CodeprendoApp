@@ -1,3 +1,5 @@
+![image1Github](https://user-images.githubusercontent.com/9616943/91914774-b75ae800-ec6d-11ea-93c1-ab09d0749087.png)
+
 # Features
 - ⏱ Set a timer to study a specific data structure
 - 📱 Create a timeline that you can stick with
