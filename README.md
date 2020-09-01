@@ -1,10 +1,7 @@
- # Codeprendo
+# Codeprendo
 
-<p align="center">
-  <img width="400" height="500" src="https://github.com/gdelarosa/CodeprendoApp/blob/master/image1.png">
-</p>
 
-### Features
+# Features
 - ⏱ Set a timer to study a specific data structure
 - 📱 Create a timeline that you can stick with
 - ✅ Goals, deadlines, todos - we all have them
