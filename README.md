@@ -5,7 +5,7 @@
 - 🌟 View free curated resources
 
 # Download 
-[![button](https://user-images.githubusercontent.com/9616943/53190156-ce6f4300-35bd-11e9-881b-81c41cfaf025.png)](https://itunes.apple.com/us/app)
+[![button](https://user-images.githubusercontent.com/9616943/53190156-ce6f4300-35bd-11e9-881b-81c41cfaf025.png)](https://apps.apple.com/us/app/id1514512697)
 
 # Roadmap 
 https://github.com/gdelarosa/CodeprendoApp/wiki/Roadmap 
@@ -16,6 +16,7 @@ To report a bug or issue please create one here: https://github.com/gdelarosa/Co
 # Built with
 - Pure Swift 5.0 🤓
 - No third party frameworks 🚫
+- Requires iOS 13+ 👈🏼
 - Lots of love ❤️
 
 
