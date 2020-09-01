@@ -1,7 +1,7 @@
  # Codeprendo
 
 <p align="center">
-  <img width="500" height="600" src="https://github.com/gdelarosa/CodeprendoApp/blob/master/image1.png">
+  <img width="400" height="500" src="https://github.com/gdelarosa/CodeprendoApp/blob/master/image1.png">
 </p>
 
 ### Features
