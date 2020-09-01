@@ -1,6 +1,3 @@
-# Codeprendo
-
-
 # Features
 - ⏱ Set a timer to study a specific data structure
 - 📱 Create a timeline that you can stick with
