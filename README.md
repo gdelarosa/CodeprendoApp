@@ -8,13 +8,14 @@
 [![button](https://user-images.githubusercontent.com/9616943/53190156-ce6f4300-35bd-11e9-881b-81c41cfaf025.png)](https://apps.apple.com/us/app/id1514512697)
 
 # Roadmap 
-https://github.com/gdelarosa/CodeprendoApp/wiki/Roadmap 
+[View Roadmap](https://github.com/gdelarosa/CodeprendoApp/wiki/Roadmap)
 
 # Report Bugs 
-To report a bug or issue please create one here: https://github.com/gdelarosa/CodeprendoApp/issues
+To report a bug or issue please create one here: [Report issue](https://github.com/gdelarosa/CodeprendoApp/issues)
+
 
 # Built with
-- Pure Swift 5.0 🤓
+- Swift 5.0 🤓
 - No third party frameworks 🚫
 - Requires iOS 13+ 👈🏼
 - Lots of love ❤️
