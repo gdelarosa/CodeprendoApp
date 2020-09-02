@@ -7,7 +7,7 @@
 - 🌟 View free curated resources
 
 # Download 
-[![button](https://user-images.githubusercontent.com/9616943/53190156-ce6f4300-35bd-11e9-881b-81c41cfaf025.png)](https://apps.apple.com/us/app/id1514512697)
+[![button](https://user-images.githubusercontent.com/9616943/53190156-ce6f4300-35bd-11e9-881b-81c41cfaf025.png)]()
 
 # Roadmap 
 [View Roadmap](https://github.com/gdelarosa/CodeprendoApp/wiki/Roadmap)
